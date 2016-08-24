@@ -49,7 +49,8 @@
     "test": "standard && tape test/*.js | tap-spec"
   },
   "peerDependencies": {
-    "eslint": "0.x",
-    "eslint-config-standard": "^3.2.0"
+    "eslint": ">=2.0.0",
+    "eslint-config-standard": "^6.0.0",
+    "eslint-plugin-double-semi": "^1.0.1"
   }
 }
