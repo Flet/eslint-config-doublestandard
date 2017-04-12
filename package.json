@@ -50,7 +50,7 @@
   },
   "peerDependencies": {
     "eslint": ">=2.0.0",
-    "eslint-config-standard": "^6.0.0",
+    "eslint-config-standard": "^10.2.0",
     "eslint-plugin-double-semi": "^1.0.1"
   }
 }
